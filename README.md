@@ -25,6 +25,6 @@ The App will be taking orders from the user while the microcontroller will recei
 <br>The Arduino board communicates with the tablet through a bluetooth module. 
 <br>The bluetooth module has 4 pins : VCC+ (3,7 to 5V), the GRND, the TX (transmitor) and the RX (the receptor).
 <br><b>Warning : The transmittor of the arduino is connected to the receptor of the module and its receptor to the transmittor of the bluetooth module.</b>
-<br>All the information regarding cabling etc. is findable o, the internet, it is very simple, a few LEDs, a buzzer, a digicode aznd servos.
+<br>All the information regarding cabling etc. is findable on the internet, it is very simple, a few LEDs, a buzzer, a digicode aznd servos.
 
 
